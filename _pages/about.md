@@ -35,13 +35,11 @@ In my free time, I enjoy board games (ranging from family-friendly Catan to more
 <img src="https://gpensamiento.github.io/images/GabrielyDulce.jpg" alt="Gabriel Pensamiento" class="about-image">
 
 ## Contact Information
-If you have questions about doing research in this area, are looking for collaborations or have questions about my research, don't hesitate to get in touch with me at  **gap75@pitt.edu**.
-
+If you have questions about my research, are looking for collaborations or doing research in this area, don't hesitate to get in touch with me at  **gap75@pitt.edu**.
 
 
 ## Upcoming Talks
 - **Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**
-  - [Philadelphia Operations and Technology Day](https://sites.google.com/lehigh.edu/operations-tech-conference-24/). Friday September 27, 2:30pm - Bethlehem, PA
   - [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Behavioral Operations Track. Monday October 21, 11am-11:20am, Summit – 432 - Seattle, WA
   - [DSI Annual Meeting](https://decisionsciences.org/conference/2024-annual-conference/), Diversity, Equity and Inclusion Track. Monday November 25, 1-1:30pm, JW Marriott Desert Ridge Resort, Floor: Level 1, Grand Canyon 1 - Phoenix, AZ
 
