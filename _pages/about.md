@@ -40,10 +40,9 @@ If you have questions about my research, are looking for collaborations or doing
 
 ## Upcoming Talks
 - **Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**
-  - [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/seattle2024/), Behavioral Operations Track. Monday October 21, 11am-11:20am, Summit – 432 - Seattle, WA
-  - [DSI Annual Meeting](https://decisionsciences.org/conference/2024-annual-conference/), Diversity, Equity and Inclusion Track. Monday November 25, 1-1:30pm, JW Marriott Desert Ridge Resort, Floor: Level 1, Grand Canyon 1 - Phoenix, AZ
+  - [POMS Annual Meeting](https://pomsmeetings.org/conf-2025/). May 2025, Atlanta, GA
 
 
 - **Reference-dependent effects in volunteering: Expected vs. experienced effort**
-  - [DSI Annual Meeting](https://decisionsciences.org/conference/2024-annual-conference/), Humanitarian and Disaster Management Track. Saturday November 23, 1:30-2pm, JW Marriott Desert Ridge Resort, Floor: Level 1, Grand Canyon 12 - Phoenix, AZ
+  - [POMS Annual Meeting](https://pomsmeetings.org/conf-2025/). May 2025, Atlanta, GA
 
