@@ -12,7 +12,9 @@ I enjoy teaching to diverse audiences with very different backgrounds, having be
 ## University of Pittsburgh - Katz Graduate School of Business, Business Analytics & Operations, Pittsburgh, PA
 
 ### Course Instructor
-- **Data Mining** (MBA & MS group): *Fall 2022* (4.47/5 Student Evaluation), *Fall 2023* (4.86/5 Student Evaluation) 
+- **Data Mining** (MBA & MS group): *Fall 2022* (4.47/5 Student Evaluation), *Fall 2023* (4.86/5 Student Evaluation)
+  
+  **Alexander Family Award for Teaching Excellence 2024**
 
 ### Teaching Assistant and Recitation Leader
 - **Statistical Analysis** (MBA, Professional MBA, Executive MBA, and Healthcare MBA groups), for Prof. Jennifer Shang and Prof. Prakash Mirchandani - *Summer 2021, Fall 2021, Summer 2022*
