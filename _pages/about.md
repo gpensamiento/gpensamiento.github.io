@@ -24,7 +24,7 @@ redirect_from:
   }
 </style>
 
-Hi! I am Gabriel Pensamiento, a fifth-year Ph.D. Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/), under the advice of Professor [León Valdés](https://www.leonvaldes.com/). I am currently in the 2024-2025 academic job market and expect to graduate by June 2025. 
+Hi! I am Gabriel Pensamiento, a fifth-year Ph.D. Candidate in Business Analytics and Operations at the [University of Pittsburgh Joseph M. Katz Graduate School of Business](https://business.pitt.edu/), under the advice of Professor [León Valdés](https://www.leonvaldes.com/). I am joining IPADE Business School's Decision Analysis department as Assistant Professor in July 2025.
 
 In my research, I conduct controlled experiments combining game-theoretic and behavioral perspectives to promote socially responsible business practices. In particular, my research focuses on **Socially Responsible** and **Behavioral Operations**  topics, exploring how auditing and training improve supplier practices and how volunteers’ first experiences shape their continuation at non-profits. 
 
