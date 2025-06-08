@@ -39,10 +39,7 @@ If you have questions about my research, are looking for collaborations or doing
 
 
 ## Upcoming Talks
-- **Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**
-  - [POMS Annual Meeting](https://pomsmeetings.org/conf-2025/). May 2025, Atlanta, GA
-
-
 - **Reference-dependent effects in volunteering: Expected vs. experienced effort**
-  - [POMS Annual Meeting](https://pomsmeetings.org/conf-2025/). May 2025, Atlanta, GA
+  - [Informs Annual Meeting](https://meetings.informs.org/wordpress/annual/). October 2025, Atlanta, GA
+  - [DSI Annual Meeting](https://decisionsciences.org/conference/annual-2025/2025-annual-conference/). November 2025, Orlando, FL
 
