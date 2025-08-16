@@ -18,7 +18,7 @@ I enjoy teaching to diverse audiences with very different backgrounds, having be
 
 ### Teaching Assistant
 - **Data Visualization, Decision Analysis, Quantitative Methods for Management** (MBA), for Prof. Alberto Ibarra - *2019 - 2020*
-- 
+  
 ## Katz Graduate School of Business - University of Pittsburgh, Pittsburgh, PA
 
 ### Course Instructor
