@@ -13,7 +13,7 @@ I enjoy teaching to diverse audiences with very different backgrounds, having be
 
 ### Course Instructor
 - **Quantitative Methods for Management** (International MBA, *English*) - *2025*
-- **Machine Learning for Management** (International MBA, *English*) - 2023-2024*
+- **Machine Learning for Management** (International MBA, *English*) - *2023-2024*
 - [**The Art of Negotiation**](https://online.ipade.mx/negociacion-arte-ciencia) (IPADE-Emeritus online, *Spanish*) - Competitive Negotiations: To compete or to collaborate? and Behavioral biases in Negotiation (2 sessions) - *2022 – Present*
 
 ### Teaching Assistant
