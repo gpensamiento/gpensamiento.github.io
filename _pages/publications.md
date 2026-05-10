@@ -10,7 +10,7 @@ I enjoy doing research that has both academic and practical relevance. My main r
 
 # **Working Papers**
 * [**Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733385) with León Valdés. 
-  * Minor Revision at **Manufacturing & Service Operations Management**.
+  * **Manufacturing & Service Operations Management**, Forthcoming.
     <!-- <span style="color: orange;">Finalist, POMS College of Service Operations Management (CSOM) Best Student Paper, 2024.</span>%} -->
   * We designed and ran an incentivized laboratory experiment to establish the causal relationship between hiring schemes and social auditor decisions. Through it, we studied how auditors process information, form beliefs, and make decisions influenced by profit motives and concerns for affected workers and clients. We find that auditors behave more leniently, driven by economic and reciprocal concerns, not when the suppliers only pay them but when they both pay and choose them. 
   
