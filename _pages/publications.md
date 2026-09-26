@@ -27,15 +27,12 @@ I enjoy doing research that combines academic rigor with practical relevance. My
 * **Social Mobility and Executive Decision-Making** with Ana Cristina Dahik, Bernardo Sainz, and CEEY.
   * We study how executives' beliefs about social mobility and inequality relate to their support for business initiatives aimed at promoting social mobility. Through an experimental survey, we examine whether framing these initiatives in terms of their social versus business implications affects managers' willingness to support and invest in them.
 
+<!--
 * **On the Joint Use of Auditing and Training to Motivate Supplier Social Responsibility** with León Valdés.
   * We study how buying firms can combine auditing and supplier training to encourage improvements in supplier social responsibility. Our results suggest that these interventions can have different behavioral consequences: while auditing may increase suppliers' incentives to hide poor conditions, training can reduce hiding and encourage more substantive improvement.
 
 * **Increasing Teachers' Engagement in an Educational App in Rwanda** with León Valdés and Mahyar Eftekhar.
   * We have partnered with a U.S.-based educational nonprofit that develops culturally and linguistically appropriate children's books in settings where access to such materials is limited. Working with teachers in Rwanda, we study how financial and social incentives can increase teachers' engagement with the nonprofit's application and encourage more frequent reading with their students.
-
-
-<!--# **Early Stage Projects**
-Eventually:
-* Value Engineering to increase awareness of usefulness of designing for the bottom of the pyramid
-* Elder vs. infant care flexibility biases in executive decision making
 -->
+
+
