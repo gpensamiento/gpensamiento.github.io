@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I enjoy teaching to diverse audiences with very different backgrounds, having benefitted from teaching in the US, Mexico and Guatemala to executives, MBAs, and undergraduates. My main current topics are related to Business Analytics (Data Mining, Machine Learning, Statistical Analysis) and Behavioral Science and Decision-Making (The Art of Negotiation). 
+I enjoy teaching to diverse audiences with very different backgrounds, having benefitted from teaching in the US, Mexico and Guatemala to executives, MBAs, and undergraduates. My main current topics are related to Business Analytics, Behavioral Science and Decision-Making. 
 
 # Course Instructor
 
@@ -15,7 +15,7 @@ I enjoy teaching to diverse audiences with very different backgrounds, having be
 - **Quantitative Methods for Management** (International MBA, *English*) - *2025-2026*
 - **Data Visualization** (International MBA, *English*) - *2026-2027*
 - **Machine Learning for Management** (International MBA, *English*) - *2023-2024, 2026*
-- [**Negociación Arte y Ciencia**](https://online.ipade.mx/negociacion-arte-ciencia) (IPADE-Emeritus online, *Spanish*) - *2022 – Present*
+- [**Negociación Arte y Ciencia**](https://online.ipade.mx/negociacion-arte-ciencia) (IPADE-Emeritus, *Español*) - *2022 – Presente*
 
 ## Katz Graduate School of Business - University of Pittsburgh, Pittsburgh, PA
 
