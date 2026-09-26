@@ -5,13 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Research"
-permalink: /publications/
-author_profile: true
----
-
 {% include base_path %}
 
 I enjoy doing research that combines academic rigor with practical relevance. My primary research tools are behavioral and experimental methods. My research lies at the intersection of **Behavioral Operations, Socially Responsible Operations, and Decision-Making**, with a particular interest in ethical sourcing, social auditing, supplier responsibility, volunteer management, and how behavioral factors shape managerial decisions.
