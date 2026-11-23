@@ -38,10 +38,3 @@ In my free time, I enjoy board games (ranging from family-friendly Catan to more
 
 ## Contact Information
 If you have questions about my research, are looking for collaborations or doing research in this area, don't hesitate to get in touch with me at  **gpensamiento@ipade.mx**.
-
-## Upcoming Talks
-- **Reference-dependent effects in volunteering: Expected vs. experienced effort**
-  - POMS Annual Meeting Sun May 10, Carson 3 1:15pm
-- **Selection, Payment, and Information Assessment in Social Audits: A Behavioral Experiment**
-  - POMS Annual Meeting Sun May 10, Carson 2 3:00pm
-
